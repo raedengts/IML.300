@@ -1,0 +1,115 @@
+body {
+  font-family: "Merriweather", serif;
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  /* position: fixed; */
+  background-color: black;
+}
+p {
+  font-family: "Merriweather", serif;
+  font-weight: normal;
+}
+#p11 {font-size: 70px;
+background-position: center;
+text-align: center;}
+#p12 {font-size: 200px;
+  color: darkmagenta;
+text-decoration: none}
+
+#dead{
+  font-family: "Merriweather", serif;
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+  background-position: center;
+  text-align: center;
+  margin-top: 0px;
+}
+#main {
+  font-family: "Merriweather", serif;
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+  background-position: center;
+  text-align: center;
+  margin-top: 275px;
+}
+
+.funeral #funeral1 {
+  margin-top: 0px;
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.Video #video-1 {
+  border: black;
+  object-fit: contain;
+  /* width: 100vw; */
+  width: 50vw;
+  height: 100vh;
+  /* position: fixed; */
+  filter: grayscale();
+}
+.Video #video-2 {
+  background-color: black;
+  object-fit: cover;
+  object-position: 50% 0%;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  filter: grayscale();
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+#study {
+  background-color: black;
+  width: 400px;
+}
+#page-4 {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+#bg1 {background-image: center;
+  text-align: center;
+  background-color:black;
+font-size: 100px;}
+
+#bg2 {background-image: center;
+  text-align: center;
+  background-color:black;
+font-size: 50px;}
+
+h2{
+  font-family: "Merriweather", serif;
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+  background-position: center;
+  text-align: center;
+  margin-top: 375px;
+}
+#expected { color: darkmagenta;
+text-decoration: none}
+#grace{
+  font-family: "Merriweather", serif;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  /* position: fixed; */
+  background-color: black;
+  background-position: center;
+  text-align: center;
+}
+.hi:link {
+  text-decoration: none;
+}
+.hi:visited {
+  color: rgb(255, 255, 255);
+  text;
+}
+.next{
+  color: darkmagenta;
+  text-decoration: none;}
